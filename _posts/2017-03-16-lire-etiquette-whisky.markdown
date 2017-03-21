@@ -2,7 +2,8 @@
 layout: post
 title:  "Comment lire l'étiquette d'un whisky et en comprendre les moindres détails"
 date:   2017-03-16 15:22:46 +0100
-categories: whisky apprentissage whiskypedia
+tags: whisky apprentissage whiskypedia
+published: true
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
